@@ -275,3 +275,13 @@ article .pris {
     grid-row: 2 / span 2;
   }
 }
+
+@media (min-width: 900px) {
+  main {
+    padding: 48px;
+  }
+
+  #hero h2 {
+    font-size: 2.5rem;
+  }
+}
